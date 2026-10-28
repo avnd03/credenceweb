@@ -1,9 +1,9 @@
 node_modules/
 dist/
-build/
 .DS_Store
 *.log
 server/.env
+server/node_modules/
 .env
 .vite/
 coverage/
